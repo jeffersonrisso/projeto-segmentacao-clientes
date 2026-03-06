@@ -133,25 +133,25 @@ rfm['Cluster_Hier'] = hierarchical.fit_predict(X_scaled)
 
 ## 4. Visualização de Dados
 
-Os dashboards interativos foram gerados em formato HTML e podem ser acessados pelos links abaixo:
+Os dashboards interativos estão disponíveis online:
 
 ### 4.1 Dashboard Interativo 1: Visão Geral dos Clusters
-[🔗 Abrir Dashboard 1 - Visão Geral](outputs/figuras/dashboard1_visao_geral.html)
+[🔗 Acessar Dashboard 1 - Visão Geral](https://jeffersonrisso.github.io/projeto-segmentacao-clientes/dashboard1_visao_geral.html)
 
 ### 4.2 Dashboard Interativo 2: Distribuição RFM
-[🔗 Abrir Dashboard 2 - Distribuição RFM](outputs/figuras/dashboard2_distribuicao_rfm.html)
+[🔗 Acessar Dashboard 2 - Distribuição RFM](https://jeffersonrisso.github.io/projeto-segmentacao-clientes/dashboard2_distribuicao_rfm.html)
 
 ### 4.3 Dashboard Interativo 3: Correlação e Perfil
-[🔗 Abrir Dashboard 3 - Correlação e Perfil](outputs/figuras/dashboard3_correlacao_perfil.html)
+[🔗 Acessar Dashboard 3 - Correlação e Perfil](https://jeffersonrisso.github.io/projeto-segmentacao-clientes/dashboard3_correlacao_perfil.html)
 
 ### 4.4 Dashboard Interativo 4: Análise Temporal
-[🔗 Abrir Dashboard 4 - Análise Temporal](outputs/figuras/dashboard4_analise_temporal.html)
+[🔗 Acessar Dashboard 4 - Análise Temporal](https://jeffersonrisso.github.io/projeto-segmentacao-clientes/dashboard4_analise_temporal.html)
 
 ### 4.5 Dashboard Interativo 5: Mapa de Calor RFM
-[🔗 Abrir Dashboard 5 - Mapa de Calor RFM](outputs/figuras/dashboard5_mapa_calor_rfm.html)
+[🔗 Acessar Dashboard 5 - Mapa de Calor RFM](https://jeffersonrisso.github.io/projeto-segmentacao-clientes/dashboard5_mapa_calor_rfm.html)
 
 ### 4.6 Dashboard Executivo
-[🔗 Abrir Dashboard Executivo](outputs/figuras/dashboard_executivo.html)
+[🔗 Acessar Dashboard Executivo](https://jeffersonrisso.github.io/projeto-segmentacao-clientes/dashboard_executivo.html)
 
 ---
 
