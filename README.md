@@ -22,7 +22,7 @@
 
 ---
 
-## 1. 📊 Coleta de Dados
+## 1. Coleta de Dados
 
 ### Fonte dos Dados
 Os dados utilizados neste projeto são do **Online Retail Dataset**, disponível publicamente no UCI Machine Learning Repository.
@@ -48,7 +48,7 @@ Os dados utilizados neste projeto são do **Online Retail Dataset**, disponível
 
 ---
 
-## 2. 🔍 Análise Exploratória
+## 2. Análise Exploratória
 
 ### 2.1 Limpeza dos Dados
 
@@ -61,7 +61,7 @@ Foram realizados os seguintes tratamentos:
 
 ### 2.2 Principais Insights da EDA
 
-```python
+```
 # Estatísticas gerais após limpeza
 - Total de transações: 397.884
 - Clientes únicos: 4.339
@@ -85,7 +85,7 @@ Foram realizados os seguintes tratamentos:
 
 ---
 
-## 3. 🤖 Modelagem
+## 3. Modelagem
 
 ### 3.1 Feature Engineering - RFM
 
@@ -131,7 +131,7 @@ rfm['Cluster_Hier'] = hierarchical.fit_predict(X_scaled)
 
 ---
 
-## 4. 📈 Visualização de Dados
+## 4. Visualização de Dados
 
 ### 4.1 Dashboard Interativo 1: Visão Geral dos Clusters
 
@@ -159,7 +159,7 @@ rfm['Cluster_Hier'] = hierarchical.fit_predict(X_scaled)
 
 ---
 
-## 5. 📊 Resultados e Conclusões
+## 5. Resultados e Conclusões
 
 ### 5.1 Perfis de Clientes Identificados
 
@@ -197,7 +197,7 @@ O projeto atingiu todos os objetivos propostos:
 
 ---
 
-## 6. 📁 Arquivos do Projeto
+## 6. Arquivos do Projeto
 
 ### 6.1 Estrutura de Pastas
 
@@ -276,8 +276,8 @@ Este projeto está sob a licença MIT.
 
 ---
 
-📅 **Data da entrega:** Março/2024  
-👨‍💻 **Desenvolvedor:** Jefferson Rizzo  
+📅 **Data da entrega:** Março/2026  
+👨‍💻 **Desenvolvedor:** Jefferson Risso  
 🔗 **Repositório:** [github.com/jeffersonrisso/projeto-segmentacao-clientes](https://github.com/jeffersonrisso/projeto-segmentacao-clientes)
 
 ---
