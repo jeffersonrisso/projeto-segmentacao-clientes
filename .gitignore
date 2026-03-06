@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+myenv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Dados (se quiser ignorar dados brutos)
+data/raw/
+data/processed/
+data/final/
+
+# Outputs (opcional - se quiser ignorar)
+outputs/figuras/
+outputs/relatorios/
+
+# Modelos (opcional)
+models/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
