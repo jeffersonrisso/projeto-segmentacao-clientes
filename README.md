@@ -8,7 +8,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto tem como objetivo segmentar clientes de um e-commerce utilizando a metodologia **RFM (Recência, Frequência e Valor Monetário)** e algoritmos de **clusterização** (K-Means e Hierárquico). A segmentação permite criar estratégias de marketing personalizadas para cada perfil de cliente, aumentando a eficiência das campanhas e a satisfação do consumidor.
+Este projeto tem como objetivo **segmentar clientes de um e-commerce** utilizando a metodologia **RFM (Recência, Frequência e Valor Monetário)** e algoritmos de **clusterização** (K-Means e Hierárquico). A segmentação permite criar estratégias de marketing personalizadas para cada perfil de cliente, aumentando a eficiência das campanhas e a satisfação do consumidor.
 
 ### 🎯 Objetivos de Negócio
 
@@ -23,7 +23,7 @@ Este projeto tem como objetivo segmentar clientes de um e-commerce utilizando a 
 - **Fonte:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
 - **Período:** 01/12/2010 a 09/12/2011
 - **Registros:** 541.909 transações
-- **Clientes únicos:** 4.372
+- **Clientes únicos:** 4.339
 - **Países:** 38
 
 ## 🛠️ Tecnologias Utilizadas
@@ -43,7 +43,7 @@ projeto_segmentacao_clientes/
 │
 ├── data/ # Dados brutos e processados
 │ ├── raw/ # Dados originais (não modificados)
-│ └── processed/ # Dados limpos e preparados
+│ ├── processed/ # Dados limpos e preparados
 │ └── final/ # Dados finais com clusters
 │
 ├── notebooks/ # Todos os notebooks do projeto
@@ -56,7 +56,7 @@ projeto_segmentacao_clientes/
 │
 ├── outputs/ # Resultados, gráficos, relatórios
 │ ├── figuras/ # Dashboards HTML e gráficos
-│ └── relatorios/ # Análises e recomendações CSV
+│ └── relatórios/ # Análises e recomendações CSV
 │
 ├── models/ # Modelos treinados salvos
 │ ├── kmeans_model.pkl
@@ -85,19 +85,7 @@ projeto_segmentacao_clientes/
 - **Hierárquico Aglomerativo:** Algoritmo hierárquico
 - Comparação de métodos e métricas (Silhouette Score, Davies-Bouldin)
 
-### 4. Avaliação e Resultados
-- Perfis de clientes identificados
-- Estratégias de marketing personalizadas
-- Dashboards interativos para visualização
-
 ## 📊 Resultados
-
-### Perfis de Clientes Identificados
-
-| Cluster | Perfil | Clientes | % | Recência | Frequência | Ticket Médio |
-|---------|--------|----------|---|----------|------------|--------------|
-| 🔥 | Clientes VIP | 33 | 0.8% | 28 dias | 50.9 | £78,503.48 |
-| 📈 | Clientes Ativos | 4,306 | 99.2% | 93 dias | 3.9 | £1,467.90 |
 
 ### 📈 Métricas Gerais
 
@@ -106,7 +94,14 @@ projeto_segmentacao_clientes/
 - **Média de compras por cliente:** 4.27
 - **Ticket médio geral:** £2,053.79
 
-### 🎯 Insights de Negócio
+### 👥 Perfis de Clientes Identificados
+
+| Cluster | Perfil | Clientes | % | Recência | Frequência | Ticket Médio |
+|---------|--------|----------|---|----------|------------|--------------|
+| 🔥 | **Clientes VIP** | 33 | 0.8% | 28 dias | 50.9 | £78,503.48 |
+| 📈 | **Clientes Ativos** | 4,306 | 99.2% | 93 dias | 3.9 | £1,467.90 |
+
+### 💡 Insights de Negócio
 
 | Cluster | Perfil | Oportunidade | Estratégia Recomendada |
 |---------|--------|--------------|------------------------|
@@ -201,7 +196,7 @@ Impacto Esperado
 +30% na taxa de reativação de clientes inativos
 
 📫 Contato
-Nome: [Jefferson Risso]
+Nome: [Seu Nome]
 
 Email: [jefferson.risso@gmail.com]
 
