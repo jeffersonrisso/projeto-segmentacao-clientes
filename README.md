@@ -39,6 +39,7 @@ Este projeto tem como objetivo **segmentar clientes de um e-commerce** utilizand
 
 ## 📁 Estrutura do Projeto
 
+```
 projeto_segmentacao_clientes/
 │
 ├── data/ # Dados brutos e processados
@@ -64,7 +65,7 @@ projeto_segmentacao_clientes/
 │
 ├── README.md # Documentação do projeto
 └── requirements.txt # Dependências do projeto
-
+```
 
 ## 🚀 Metodologia
 
