@@ -133,29 +133,25 @@ rfm['Cluster_Hier'] = hierarchical.fit_predict(X_scaled)
 
 ## 4. Visualização de Dados
 
-### 4.1 Dashboard Interativo 1: Visão Geral dos Clusters
+Os dashboards interativos foram gerados em formato HTML e podem ser acessados pelos links abaixo:
 
-![Dashboard 1](outputs/figuras/dashboard1_visao_geral.html)
+### 4.1 Dashboard Interativo 1: Visão Geral dos Clusters
+[🔗 Abrir Dashboard 1 - Visão Geral](outputs/figuras/dashboard1_visao_geral.html)
 
 ### 4.2 Dashboard Interativo 2: Distribuição RFM
-
-![Dashboard 2](outputs/figuras/dashboard2_distribuicao_rfm.html)
+[🔗 Abrir Dashboard 2 - Distribuição RFM](outputs/figuras/dashboard2_distribuicao_rfm.html)
 
 ### 4.3 Dashboard Interativo 3: Correlação e Perfil
-
-![Dashboard 3](outputs/figuras/dashboard3_correlacao_perfil.html)
+[🔗 Abrir Dashboard 3 - Correlação e Perfil](outputs/figuras/dashboard3_correlacao_perfil.html)
 
 ### 4.4 Dashboard Interativo 4: Análise Temporal
-
-![Dashboard 4](outputs/figuras/dashboard4_analise_temporal.html)
+[🔗 Abrir Dashboard 4 - Análise Temporal](outputs/figuras/dashboard4_analise_temporal.html)
 
 ### 4.5 Dashboard Interativo 5: Mapa de Calor RFM
-
-![Dashboard 5](outputs/figuras/dashboard5_mapa_calor_rfm.html)
+[🔗 Abrir Dashboard 5 - Mapa de Calor RFM](outputs/figuras/dashboard5_mapa_calor_rfm.html)
 
 ### 4.6 Dashboard Executivo
-
-![Dashboard Executivo](outputs/figuras/dashboard_executivo.html)
+[🔗 Abrir Dashboard Executivo](outputs/figuras/dashboard_executivo.html)
 
 ---
 
